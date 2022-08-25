@@ -7,5 +7,11 @@ package javatestproject;
  *
  */
 public class Tnewtest {
+/**
+ * 
+ */
+private void Syso() {
+    // TODO Auto-generated method stub
 
+}
 }
